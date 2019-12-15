@@ -174,6 +174,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     color:#fff!important;
     background-image: url("https://turquoise-games.github.io/images/header1.png")!important;
     background: center;
+    height: 20%;
 }
 .w3-sand,.w3-hover-sand:hover{color:#000!important;background-color:#fdf5e6!important}
 .w3-teal,.w3-hover-teal:hover{color:#fff!important;background-color:#009688!important}
