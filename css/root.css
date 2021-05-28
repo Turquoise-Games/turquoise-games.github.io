@@ -1,0 +1,39 @@
+a
+{
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: rgb(169, 230, 226);
+}
+
+#backgroundImage
+{
+	background-image: url("../colonies-of-mars/images/mainArtwork.png");
+    background-size: cover;
+    background-position: 50%;
+	position: relative;
+    width: 100%;
+    height: 100vh;
+    top: 0px;
+    left: 0px;
+    z-index: 0;
+}
+
+body
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+.transition
+{
+	background-color: #C36654;
+	height: 70px;
+	width: 100%;
+    height: 100px;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+}
